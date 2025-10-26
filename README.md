@@ -2,10 +2,12 @@
 <img decoding="async" src="./Readme_File/Poster_matplotlib.png" width="40%" >
 </div> -->
 
-# 基于卷积神经网络的印刷体识别
+这是我在中国石油大学(华东)本科期间机器学习课程作业
+
+# 基于AlexNet的OCR实现
 
 >### 简介 `Brief introduction`
->这是我在中国石油大学(华东)本科期间机器学习课程的项目作业
+>
 >
 >### 关于 `dataset` 文件夹的内容使用 `About the contents of the 'dataset' folder usage`
 >
